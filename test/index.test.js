@@ -1,4 +1,3 @@
-// test/index.test.js
 const { capitalizeWords, filterActiveUsers, logAction } = require('../index');
 
 describe('capitalizeWords function', () => {
